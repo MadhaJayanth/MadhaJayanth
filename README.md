@@ -16,4 +16,6 @@ stats.vercel.app/api?username=MadhaJayanth&amp;show_icons=true&amp;theme=radical
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
 langs/?username=MadhaJayanth&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: goudmadajayanth@gmail.com- �� LinkedIn: [MadhaJayanth
-Profile](https://linkedin.com/in/MadhaJayanth-example)
+Profile](https://linkedin.com/in/MadhaJayanth-example) 
+![Static Badge](https://img.shields.io/badge/Java%2C%20Advanced%2C%20green%2C%20Flat-square)
+
